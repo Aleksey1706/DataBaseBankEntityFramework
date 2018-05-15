@@ -1,0 +1,8 @@
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\DataBaseFirst\bin\Debug\DataBaseFirst.dll.config
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\DataBaseFirst\bin\Debug\DataBaseFirst.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\ReversePOCO\Debug\ReversePOCO.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\ReversePOCO\Debug\ReversePOCO.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\ReversePOCO\Debug\ReversePOCO.csproj.CopyComplete
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\ReversePOCO\Debug\DataBaseFirst.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\ReversePOCO\Debug\DataBaseFirst.pdb

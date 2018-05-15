@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\b\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\UnitTest\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\UnitTest\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\UnitTest\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\UnitTest\Debug\UnitTest.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\.vs\DataBaseFirst\lut\0\i\UnitTest\Debug\UnitTest.pdb

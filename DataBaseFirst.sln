@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePOCO", "DataBaseFirst\ReversePOCO.csproj", "{36A94698-312D-48DC-80C8-17D903EF5DAE}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Bank", "Bank\Bank.sqlproj", "{D033998B-C4FF-4017-AC99-8437A15B4304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C4FC38EB-6BB8-47EC-94F8-EAB9CD9CD4B7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{36A94698-312D-48DC-80C8-17D903EF5DAE} = {36A94698-312D-48DC-80C8-17D903EF5DAE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A94698-312D-48DC-80C8-17D903EF5DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A94698-312D-48DC-80C8-17D903EF5DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A94698-312D-48DC-80C8-17D903EF5DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A94698-312D-48DC-80C8-17D903EF5DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D033998B-C4FF-4017-AC99-8437A15B4304}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C4FC38EB-6BB8-47EC-94F8-EAB9CD9CD4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FC38EB-6BB8-47EC-94F8-EAB9CD9CD4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FC38EB-6BB8-47EC-94F8-EAB9CD9CD4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FC38EB-6BB8-47EC-94F8-EAB9CD9CD4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1988C5FD-AE08-4EEF-8629-BC7A12A15033}
+	EndGlobalSection
+EndGlobal

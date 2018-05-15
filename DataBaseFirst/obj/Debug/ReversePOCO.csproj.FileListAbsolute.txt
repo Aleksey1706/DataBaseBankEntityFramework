@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.dll.config
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\ReversePOCO.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\ReversePOCO.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\ReversePOCO.csproj.CopyComplete
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.dll
+C:\Users\Алексей\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
